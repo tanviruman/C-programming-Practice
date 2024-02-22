@@ -1,7 +1,7 @@
-# REPO NAME
-![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/)
-![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/)
+# C-programming-Practice
+![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/C-programming-Practice)
+![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/C-programming-Practice)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/C-programming-Practice)
 
 
 ## Authors
